@@ -9,8 +9,8 @@
 - **MySQL**
 4. Открыть phpMyAdmin: [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
 5. Создать БД **test_task** с кодировкой `utf8`:
-  5.1. Импортировать БД (которую я предварительно пришлю)
-  5.2. Выполнить SQL-запрос к БД:
+  - Импортировать БД (которую я предварительно пришлю)
+  - Выполнить SQL-запрос к БД:
     ```sql
     CREATE TABLE `test_task`.`tasks` (
     `id` INT NOT NULL AUTO_INCREMENT,
