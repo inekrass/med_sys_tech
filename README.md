@@ -8,7 +8,7 @@
 - **Apache**
 - **MySQL**
 4. Открыть phpMyAdmin: [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
-5. Создать БД **test_task** с кодировкой `utf8`:
+5. Создать БД **test_task** с кодировкой `utf8mb4_general_ci`:
   - Импортировать БД (которую я предварительно пришлю)
   - Выполнить SQL-запрос к БД:
     ```sql
